@@ -3,4 +3,5 @@ I am new at this :D \
 **bold** \
 *italicize* \
 ** bold ** \
-***bullet to new line***
+***bullet to new line*** \
+* bullet point
